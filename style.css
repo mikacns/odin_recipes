@@ -1,0 +1,60 @@
+* {
+    font-family: Verdana, sans-serif;
+    
+}
+
+body {
+    background-color: #936639;
+}
+
+
+.main-container {
+    width: 600px;
+    margin: auto;
+    border: 5px solid gray;
+    padding: 10px;
+    background-color: #ffd7ba;
+}
+
+#cookies {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+
+ul, ol {
+    line-height: 1.6;
+}
+
+ul.main-page-list{
+   list-style-image: url('./images/bullet-cookie.png');
+   
+}
+
+.main-page-h1 {
+    text-align: center;
+    color: #C33C54;
+}
+
+.all-cookies {
+    width: 60%;
+    height: auto;
+}
+
+hr {
+    border-top: 2px dashed #254E70;
+}
+
+.cookies-recipes-img {
+    border-radius: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
+
+.side-page-h1 {
+    text-align: center;
+    color:darkslategrey;
+}
